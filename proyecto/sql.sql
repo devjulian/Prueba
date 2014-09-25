@@ -1,2 +1,2 @@
 Select * from TABLE;
-select * from TABLE2;
+select * from TABLEss;
